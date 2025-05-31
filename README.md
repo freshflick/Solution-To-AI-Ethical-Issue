@@ -10,7 +10,7 @@ This repository contains our group project for the development of an AI applicat
 Our goal is to design and prototype an ethical AI solution that responds to a real-world ethical issue in current AI technologies. The project is divided into two parts:
 
 - Proposal Report
-- Functional Prototype
+- [Functional Prototype](https://www.figma.com/design/ddvKhqUKOA0blT7MjYFZkQ/Solution-to-AI-problem-Prototype?node-id=24-1242&p=f) <- Prototype link
 
 ---
 
